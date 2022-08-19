@@ -1,0 +1,50 @@
+[
+       {
+         _id: 1,
+         title: 'Welcome!',
+         message:'welcome to app',
+         expTime:'Thursday, August 18, 2022 1:37:13 PM',
+          color:'red',
+       }, {
+         _id: 2,
+         title: 'How to Use This App',
+         message:'welcome to app2',
+         expTime:'Thursday, August 18, 2022 1:37:13 PM',
+         color:'green',
+
+       },
+      
+     
+      {
+         _id: 3,
+         title: 'Not so interesting message.',
+         message:'welcome to app3',
+         expTime:'Thursday, August 18, 2022 1:37:13 PM',
+         color:'blue',
+
+       },
+       {
+        _id: 4,
+        title: 'whatsupp.',
+        message:'welcome to app5',
+        expTime:'Thursday, August 18, 2022 1:37:13 PM',
+        color:'yellow',
+
+      },
+      {
+        _id: 5,
+        title: 'whatsupp.11111',
+        message:'welcome to app5',
+        expTime:'Thursday, August 18, 2022 1:37:13 PM',
+        color:'yellow',
+
+      },
+      {
+        _id: 6,
+        title: 'whatsupp.11111',
+        message:'welcome to app5',
+        expTime:'Thursday, August 18, 2022 1:37:13 PM',
+        color:'yellow',
+
+      }
+      ]
